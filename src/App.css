@@ -1,0 +1,15 @@
+.cards{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.green{
+  color: green;
+  text-decoration: none;
+}
+
+.red{
+  color: red;
+  text-decoration: none;
+}
